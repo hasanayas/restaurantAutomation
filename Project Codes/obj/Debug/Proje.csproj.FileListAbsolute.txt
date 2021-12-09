@@ -1,0 +1,17 @@
+C:\Users\Fatih\source\repos\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\Fatih\source\repos\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\Fatih\source\repos\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\Fatih\source\repos\Proje\Proje\obj\Debug\Proje.csprojAssemblyReference.cache
+C:\Users\Fatih\source\repos\Proje\Proje\obj\Debug\Proje.Form1.resources
+C:\Users\Fatih\source\repos\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\Fatih\source\repos\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\Fatih\source\repos\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\source\repos\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\Fatih\source\repos\Proje\Proje\obj\Debug\Proje.pdb
+C:\Users\Fatih\source\repos\Proje\Proje\obj\Debug\Proje.Form2.resources
+C:\Users\Fatih\source\repos\Proje\Proje\obj\Debug\Proje.Form3.resources
+C:\Users\Fatih\source\repos\Proje\Proje\obj\Debug\Proje.Form4.resources
+C:\Users\Fatih\source\repos\Proje\Proje\obj\Debug\Proje.Form5.resources
+C:\Users\Fatih\source\repos\Proje\Proje\obj\Debug\Proje.Form6.resources
+C:\Users\Fatih\source\repos\Proje\Proje\obj\Debug\Proje.Form7.resources
+C:\Users\Fatih\source\repos\Proje\Proje\obj\Debug\Proje.Form8.resources
